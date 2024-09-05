@@ -1,0 +1,20 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv": "^6.3.10",
+    "csv-generate": "^4.4.1",
+    "csv-parse": "^5.5.6",
+    "csv-stringify": "^6.5.1"
+  }
+}
